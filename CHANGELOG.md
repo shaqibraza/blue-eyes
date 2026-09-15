@@ -1,9 +1,30 @@
-# Change Log
+# Changelog
 
-All notable changes to the "sukoon" extension will be documented in this file.
+All notable changes to the Blue Eyes VS Code theme will be documented here.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [0.0.1] - 2026-09-16
 
-## [Unreleased]
+### Added
 
-- Initial release
+- Initial release of Blue Eyes.
+- Deep black and navy editor interface.
+- Soft white variables and normal code.
+- Blue functions and methods.
+- Refined blue types and interfaces.
+- Violet keywords.
+- Soft green strings.
+- Warm class and enum highlighting.
+- Orange numbers and constants.
+- Cyan operators and template interpolation.
+- Teal object properties.
+- Muted comments for comfortable long coding sessions.
+- Semantic token highlighting.
+- Custom editor, sidebar, terminal, panel, tab, and activity bar colors.
+- Bracket pair colorization.
+- Search and diagnostic highlighting.
+- Git decoration colors.
+- Minimap and editor UI refinements.
+
+---
+
+[0.0.1]: https://github.com/shaqibraza/blue-eyes/releases/tag/v0.0.1
