@@ -20,6 +20,24 @@ Blue Eyes is built around a deep black/navy interface with carefully balanced sy
 - Carefully balanced editor and UI colors
 - Designed for long coding sessions
 
+## 📸 Screenshots
+
+### TypeScript / Backend
+
+![Blue Eyes - TypeScript Backend](screenshots/01-backend.png)
+
+### Next.js / React
+
+![Blue Eyes - Next.js](screenshots/02-nextjs.png)
+
+### Full VS Code Experience
+
+![Blue Eyes - Full UI](screenshots/03-full-ui.png)
+
+### Extension Configuration
+
+![Blue Eyes - package.json](screenshots/04-package-json.png)
+
 ## 🎨 Color Philosophy
 
 Blue Eyes follows a simple visual hierarchy:
