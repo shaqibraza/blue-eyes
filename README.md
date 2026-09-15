@@ -1,16 +1,81 @@
-# sukoon README
+# Blue Eyes
 
-## Working with Markdown
+A calm, dark VS Code theme designed for focused coding and comfortable long sessions.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Blue Eyes is built around a deep black/navy interface with carefully balanced syntax colors. The goal is simple: keep the editor visually beautiful without making the code noisy or tiring to read.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## ✨ Features
 
-## For more information
+- Deep black and navy editor background
+- Soft white variables and normal code
+- Premium blue functions and methods
+- Refined blue types and interfaces
+- Subtle violet keywords
+- Soft green strings
+- Warm class and enum colors
+- Orange/amber numbers and constants
+- Cyan operators and interpolation
+- Muted comments for reduced visual noise
+- Semantic token highlighting
+- Carefully balanced editor and UI colors
+- Designed for long coding sessions
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## 🎨 Color Philosophy
 
-**Enjoy!**
+Blue Eyes follows a simple visual hierarchy:
+
+| Code Element | Color |
+| --- | --- |
+| Variables | Soft White |
+| Functions / Methods | Blue |
+| Types / Interfaces | Refined Blue |
+| Keywords | Violet |
+| Classes | Warm Champagne |
+| Strings | Soft Green |
+| Numbers | Orange |
+| Operators | Cyan |
+| Properties | Teal |
+| Parameters | Soft Red |
+| Comments | Muted Blue-Gray |
+
+Blue is intentionally used as an accent rather than covering the entire editor.
+
+## 💻 Recommended For
+
+Blue Eyes works especially well for:
+
+- TypeScript
+- JavaScript
+- React / TSX
+- Node.js
+- HTML
+- CSS
+- JSON
+- Markdown
+- SQL
+- Backend development
+
+## 📦 Installation
+
+### From VS Code Marketplace
+
+Search for:
+
+**Blue Eyes**
+
+### Install from VSIX
+
+1. Download the `.vsix` package.
+2. Open VS Code.
+3. Open the Extensions panel.
+4. Select `...`.
+5. Choose **Install from VSIX...**
+6. Select the Blue Eyes `.vsix` file.
+7. Activate the theme.
+
+## 🎯 Activating Blue Eyes
+
+Open the Command Palette:
+
+```text
+Ctrl + Shift + P
