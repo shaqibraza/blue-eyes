@@ -1,6 +1,6 @@
 {
     "name": "sukoon",
-    "displayName": "Blue Eyes",
+    "displayName": "Blue Eyes Theme",
     "description": "A calm, dark VS Code theme designed for focused coding and comfortable long sessions.",
     "version": "0.0.1",
     "publisher": "msr",
@@ -45,7 +45,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Blue Eyes",
+                "label": "Blue Eyes Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Sukoon-color-theme.json"
             }
